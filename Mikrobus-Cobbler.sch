@@ -8,20 +8,20 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -30,8 +30,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -39,17 +39,17 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
@@ -2635,7 +2635,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="83.82" y="68.58"/>
 </segment>
 </net>
-<net name="N$2" class="0">
+<net name="+5V" class="0">
 <segment>
 <pinref part="PCB1" gate="G$1" pin="5V@4"/>
 <wire x1="27.94" y1="96.52" x2="27.94" y2="104.14" width="0.1524" layer="91"/>
@@ -2654,7 +2654,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="83.82" y="12.7"/>
 </segment>
 </net>
-<net name="N$3" class="0">
+<net name="+3.3V" class="0">
 <segment>
 <pinref part="PCB1" gate="G$1" pin="3V3@17"/>
 <wire x1="63.5" y1="68.58" x2="63.5" y2="55.88" width="0.1524" layer="91"/>
@@ -2669,7 +2669,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="63.5" y="68.58"/>
 </segment>
 </net>
-<net name="N$4" class="0">
+<net name="AN" class="0">
 <segment>
 <pinref part="PCB1" gate="G$1" pin="GPIO4"/>
 <wire x1="38.1" y1="68.58" x2="38.1" y2="27.94" width="0.1524" layer="91"/>
@@ -2679,7 +2679,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="38.1" y="68.58"/>
 </segment>
 </net>
-<net name="N$5" class="0">
+<net name="RST" class="0">
 <segment>
 <pinref part="PCB1" gate="G$1" pin="GPIO5"/>
 <wire x1="93.98" y1="68.58" x2="93.98" y2="50.8" width="0.1524" layer="91"/>
@@ -2691,7 +2691,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="93.98" y="68.58"/>
 </segment>
 </net>
-<net name="N$7" class="0">
+<net name="CS" class="0">
 <segment>
 <pinref part="MB1" gate="G$1" pin="CS"/>
 <junction x="53.34" y="22.86"/>
@@ -2703,7 +2703,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="78.74" y="96.52"/>
 </segment>
 </net>
-<net name="N$6" class="0">
+<net name="SCK" class="0">
 <segment>
 <pinref part="MB1" gate="G$1" pin="SCK"/>
 <wire x1="53.34" y1="20.32" x2="5.08" y2="20.32" width="0.1524" layer="91"/>
@@ -2715,7 +2715,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="78.74" y="68.58"/>
 </segment>
 </net>
-<net name="N$8" class="0">
+<net name="MISO" class="0">
 <segment>
 <pinref part="PCB1" gate="G$1" pin="GPIO9"/>
 <wire x1="73.66" y1="68.58" x2="73.66" y2="43.18" width="0.1524" layer="91"/>
@@ -2727,7 +2727,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="73.66" y="68.58"/>
 </segment>
 </net>
-<net name="N$9" class="0">
+<net name="MOSI" class="0">
 <segment>
 <pinref part="PCB1" gate="G$1" pin="GPIO19"/>
 <wire x1="109.22" y1="68.58" x2="109.22" y2="40.64" width="0.1524" layer="91"/>
@@ -2738,7 +2738,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="53.34" y="15.24"/>
 </segment>
 </net>
-<net name="N$10" class="0">
+<net name="PWM" class="0">
 <segment>
 <pinref part="MB1" gate="G$1" pin="PWM"/>
 <wire x1="83.82" y1="27.94" x2="139.7" y2="27.94" width="0.1524" layer="91"/>
@@ -2750,7 +2750,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="48.26" y="96.52"/>
 </segment>
 </net>
-<net name="N$11" class="0">
+<net name="INT" class="0">
 <segment>
 <pinref part="PCB1" gate="G$1" pin="GPIO6"/>
 <wire x1="99.06" y1="68.58" x2="99.06" y2="25.4" width="0.1524" layer="91"/>
@@ -2759,7 +2759,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="83.82" y="25.4"/>
 </segment>
 </net>
-<net name="N$12" class="0">
+<net name="RX" class="0">
 <segment>
 <pinref part="MB1" gate="G$1" pin="RX"/>
 <wire x1="83.82" y1="22.86" x2="142.24" y2="22.86" width="0.1524" layer="91"/>
@@ -2771,7 +2771,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="43.18" y="96.52"/>
 </segment>
 </net>
-<net name="N$13" class="0">
+<net name="TX" class="0">
 <segment>
 <wire x1="38.1" y1="129.54" x2="147.32" y2="129.54" width="0.1524" layer="91"/>
 <wire x1="147.32" y1="129.54" x2="147.32" y2="20.32" width="0.1524" layer="91"/>
@@ -2783,7 +2783,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="38.1" y="96.52"/>
 </segment>
 </net>
-<net name="N$14" class="0">
+<net name="SCL" class="0">
 <segment>
 <wire x1="33.02" y1="38.1" x2="101.6" y2="38.1" width="0.1524" layer="91"/>
 <wire x1="101.6" y1="38.1" x2="101.6" y2="17.78" width="0.1524" layer="91"/>
@@ -2795,7 +2795,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="33.02" y="68.58"/>
 </segment>
 </net>
-<net name="N$15" class="0">
+<net name="SDA" class="0">
 <segment>
 <pinref part="PCB1" gate="G$1" pin="GPIO2"/>
 <wire x1="27.94" y1="68.58" x2="27.94" y2="35.56" width="0.1524" layer="91"/>
