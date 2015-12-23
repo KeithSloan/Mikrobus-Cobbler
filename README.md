@@ -6,5 +6,8 @@ Note my original attempt had an island rectangle hole in the PCB but the Fab I u
 Having prototyped using the cobbler and a breadboard, hobbyists and students can make a more permanent prototype using an Alternative Mikrobus Prototype Board see https://github.com/KeithSloan/Mikrobus-Proto
 
 Note pupils and hobbyists don't often have access to PCB making facilities, hence the provision of a general purpose board.
+
+### Fritzing Part
+Fritzing part added to Fritzing Parts directory
 ### Feedback
 Send constructive feedback to keith@sloan-home.co.uk
